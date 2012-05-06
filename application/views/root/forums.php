@@ -1,0 +1,1 @@
+<script type="text/javascript" src="https://minecrafter.com/vanilla/plugins/embedvanilla/remote.js"></script>
